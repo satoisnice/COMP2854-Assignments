@@ -45,3 +45,4 @@ FROM (
 ) b
 GROUP BY b.decile
 order by b.decile;
+
