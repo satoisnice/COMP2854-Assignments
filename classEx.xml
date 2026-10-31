@@ -1,0 +1,10 @@
+<BCIT>
+    <Courses>
+        <Course type="COMP" number="1630">Database Design and SQL</Course>
+        <Course type="COMP" number="2854">Data Analytics Fundamentals</Course>
+    </Courses>
+    <Campuses>
+        <Campus>DTC</Campus>
+        <Campus>BBY</Campus>
+    </Campuses>
+</BCIT>
