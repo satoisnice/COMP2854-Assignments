@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  /*
+=======
+/*
+>>>>>>> d63c8cd51749714b3698b794df42a894e67d195d
 COMP 2854 - Assignment 4
 Connor Bell A01442859
 */
